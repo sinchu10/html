@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<!--CREATING BASIC TABLE-->
+<body>
+    <table border="1" align="center">
+        <caption><h2>student data</h2></caption>
+        <tr>
+            <th>NAME</th>
+            <th>USN</th>
+            <th>MARKS</th>
+        </tr>
+        <tr>
+            <td>akshitha</td>
+            <td>001</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>arvi</td>
+            <td>002</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>ammy</td>
+            <td>003</td>
+            <td>20</td>
+        </tr>
+    </table><br>
+    <br>
+
+    <!--COULMNSPAN TABLE-->
+
+    <table border="1" align="center">
+        <caption><h2>student data</h2></caption>
+        <tr>
+            <th>NAME</th>
+            <th>ADDRESS</th>
+            <th colspan="2">NUMBER</th>
+        </tr>
+        <tr>
+            <td>akshitha</td>
+            <td>karnataka</td>
+            <td>5649853</td>
+            <td>3369853</td>
+        </tr>
+        <tr>
+            <td>arvi</td>
+            <td>kerala</td>
+            <td>9649853</td>
+            <td>9369853</td>
+            
+        </tr>
+        <tr>
+            <td>ammy</td>
+            <td>kochi</td>
+            <td>8949853</td>
+            <td>7569853</td>
+        </tr>
+        </table>
+
+</body>
+</html>
