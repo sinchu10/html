@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>picture</title>
+</head>
+<body>
+    <!--HEADING TAGS-->
+    <h1>welcome</h1>
+    <h2>welcome</h2>
+    <h3>welcome</h3>
+    <h4>welcome</h4>
+    <h5>welcome</h5>
+    <h6>welcome</h6><br>
+
+    <!--ITALIC FONT TAG-->
+    <i>welcome</i><br><br>
+
+    <!--BOLD FONT TAGS-->
+    <strong>welcome</strong><br>
+    <b>welcome</b><br><br>
+
+    <!--SUBSCRIPT AND SUPERSCRIPT TAGS-->
+    x<sub>1</sub><sup>2</sup>+y<sub>1</sub><sup>2</sup><br><br>
+
+    <!--BLOCKQUOTE TAG-->
+    <blockquote>welcome</blockquote><br><br>
+
+    <!--UNDERLINE TAG-->
+    <u>welcome</u><br><br>
+
+    <!--QUOTATION TAG-->
+    <q>welcome</q><br><br>
+
+    <!--STRIKE TAG-->
+    <strike>welcome</strike><br><br>
+
+    <!--SMALL FONT TAG-->
+    <small>welcome</small><br><br>
+
+    <!--MARQUEE TAG-->
+    <marquee>welcome</marquee><br><br>
+
+    <!--DELETE TAG-->
+    <delete>welcome</delete><br><br>
+
+    <!--PARAGRAPH AND ALIGN TAG-->
+    <p>
+        <pre>
+            welcome
+                to
+                 college
+        </pre>
+    </p><br><br>
+</body>
+</html>
