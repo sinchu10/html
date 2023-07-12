@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--ORDERED LIST-->
+    <ol type="A">  <!--type is optional-->
+        <caption><h2>ORDERED LIST</h2></caption>
+        <li>subject 1</li>
+        <li>subject 2</li>
+        <li>subject 3</li>
+    </ol>
+
+     <!--UNORDERED LIST-->
+    <ul style="list-style-type: disc;">
+        <caption><h2>UNORDERED LIST</h2></caption>
+        <li>subject 1</li>
+        <li>subject 2</li>
+        <li>subject 3</li>
+    </ul>
+
+    <!--NESTED LIST-->
+    <ol>
+        <caption><h2>NESTED LIST</h2></caption>
+        <li>3rd semester
+            <ol>
+                <li>web programming</li>
+                <li>c programming</li>
+                <li>python</li>
+            </ol>
+        </li>
+        <li>4th semester
+            <ol>
+                <li>java</li>
+                <li>c++</li>
+                <li>angular js</li>
+            </ol>
+        </li>
+    </ol>
+
+</body>
+</html>
